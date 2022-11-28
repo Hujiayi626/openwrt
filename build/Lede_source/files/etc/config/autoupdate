@@ -1,0 +1,7 @@
+config login
+	option enable '0'
+	option forceupdate '0'
+	option minute '0'
+	option github 'https://github.com/Hujiayi626/openwrt/releases/tag/Lede_source'
+	option week '6'
+	option hour '1'
